@@ -1,1 +1,52 @@
+Baik 👍 aku buatkan **referensi untuk nomor 8 yang sudah siap kamu copy ke laporan / README GitHub** dengan **format ilmiah (APA dan IEEE)**. 📚
 
+---
+
+# 8️⃣ Referensi / Jurnal tentang Grayscale dan Histogram
+
+## 1️⃣ Jurnal 1
+
+**Format APA**
+
+Kusnadi, K., Riana, D., & Syahrani, M. (2022).
+*Pengolahan citra digital dengan metode transformasi grayscale dan pemerataan histogram.*
+Jurnal Teknik Informatika Kaputama.
+
+**Penjelasan singkat**
+
+Penelitian ini membahas proses konversi citra berwarna menjadi **grayscale** dan penggunaan **histogram equalization** untuk meningkatkan kualitas citra. Hasil penelitian menunjukkan bahwa pemerataan histogram dapat meningkatkan kontras gambar sehingga detail citra lebih terlihat jelas.
+
+---
+
+## 2️⃣ Jurnal 2
+
+**Format APA**
+
+Pizer, S. M., Amburn, E. P., Austin, J. D., Cromartie, R., Geselowitz, A., Greer, T., & Zimmerman, J. B. (1987).
+*Adaptive histogram equalization and its variations.*
+Computer Vision, Graphics, and Image Processing.
+
+**Penjelasan singkat**
+
+Penelitian ini memperkenalkan metode **Histogram Equalization** sebagai teknik peningkatan kualitas citra digital. Metode ini bekerja dengan meratakan distribusi intensitas pixel sehingga kontras gambar meningkat.
+
+---
+
+## 3️⃣ Buku Referensi (Sering dipakai di skripsi)
+
+**Format APA**
+
+Gonzalez, R. C., & Woods, R. E. (2018).
+*Digital Image Processing (4th ed.).*
+Pearson Education.
+
+**Penjelasan**
+
+Buku ini menjelaskan berbagai teknik pengolahan citra digital seperti:
+
+* konversi **RGB ke grayscale**
+* **analisis histogram**
+* **histogram equalization**
+* peningkatan kualitas citra.
+
+Buku ini menjadi salah satu referensi utama dalam bidang **image processing**.
